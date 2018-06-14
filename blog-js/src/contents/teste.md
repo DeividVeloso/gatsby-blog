@@ -4,4 +4,9 @@ date: "2017-11-07"
 title: "My first blog post1"
 ---
 
-Teste Markdown 2
+Teste Markdown 1
+
+ <img
+        src="https://2.bp.blogspot.com/-BMP2l6Hwvp4/TiAxeGx4CTI/AAAAAAAAD_M/XlC_mY3SoEw/s1600/panda-group-eating-bamboo.jpg"
+        alt="Group of pandas eating bamboo"
+      />
